@@ -6,3 +6,4 @@
 - 2026-11-14 · scratch note
 - 2026-11-15 · log the day
 - 2026-11-16 · scratch note
+- 2026-11-17 · rpc was flaky, swapped endpoint
