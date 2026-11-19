@@ -8,3 +8,4 @@
 - 2026-11-16 · scratch note
 - 2026-11-17 · rpc was flaky, swapped endpoint
 - 2026-11-18 · tidy the wallet list
+- 2026-11-19 · cache the pair list
