@@ -11,3 +11,4 @@
 - 2026-11-19 · cache the pair list
 - 2026-11-20 · fix a typo
 - 2026-11-21 · rpc was flaky, swapped endpoint
+- 2026-11-22 · read the pump.fun docs
