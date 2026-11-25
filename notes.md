@@ -13,3 +13,4 @@
 - 2026-11-21 · rpc was flaky, swapped endpoint
 - 2026-11-22 · read the pump.fun docs
 - 2026-11-23 · bump deps
+- 2026-11-24 · ponytail the funding flow
