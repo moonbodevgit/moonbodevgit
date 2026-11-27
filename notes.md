@@ -16,3 +16,4 @@
 - 2026-11-24 · ponytail the funding flow
 - 2026-11-25 · log the day
 - 2026-11-26 · ponytail the funding flow
+- 2026-11-27 · small fixes
